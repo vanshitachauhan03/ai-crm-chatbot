@@ -1,0 +1,3 @@
+Refund takes 5 days.
+Delivery takes 3 days.
+Support email is support@company.com
